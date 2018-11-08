@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa841c52-5449-49bf-9196-06ba64f5c348" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VierteKlasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fünfteKlasse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1810653053_Aufgaben_Serie1/meinDrittesPacket/DritteKlasse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1810653053_Aufgaben_Serie1/meinZweitesPacket/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meinDrittesPacket/DritteKlasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/meinDrittesPacket/DritteKlasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VierteKlasse.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VierteKlasse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VierteKlasse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fünfteKlasse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fünfteKlasse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -76,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/meinDrittesPacket/DritteKlasse.java" />
         <option value="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" />
         <option value="$PROJECT_DIR$/src/VierteKlasse.java" />
+        <option value="$PROJECT_DIR$/src/fünfteKlasse.java" />
       </list>
     </option>
   </component>
@@ -228,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541663798078</updated>
-      <workItem from="1541663801575" duration="6193000" />
+      <workItem from="1541663801575" duration="7140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6193000" />
+    <option name="totallyTimeSpent" value="7140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,7 +251,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -250,7 +260,7 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32897604" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
@@ -304,8 +314,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VierteKlasse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fünfteKlasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
