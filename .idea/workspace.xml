@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa841c52-5449-49bf-9196-06ba64f5c348" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1810653053_Aufgaben_Serie1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/meinpacket/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/meinpacket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/meinpacket/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/meinpacket/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -30,10 +28,10 @@
         <entry file="file://$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,8 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ZweiteKlasse.java" />
-        <option value="$PROJECT_DIR$/src/meinpacket/Main.java" />
         <option value="$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java" />
+        <option value="$PROJECT_DIR$/src/meinpacket/Main.java" />
       </list>
     </option>
   </component>
@@ -106,6 +104,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541663798078</updated>
-      <workItem from="1541663801575" duration="2782000" />
+      <workItem from="1541663801575" duration="3360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2782000" />
+    <option name="totallyTimeSpent" value="3360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -195,7 +194,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -204,7 +203,7 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32897604" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
@@ -231,24 +230,32 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java</url>
+          <line>1</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/meinpacket/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/meinZweitesPacket/ZweiteKlasse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
