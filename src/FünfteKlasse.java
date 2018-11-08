@@ -1,4 +1,4 @@
-public class fünfteKlasse {
+public class FünfteKlasse {
     private String k;
 
     public static void main (String [] Args)
